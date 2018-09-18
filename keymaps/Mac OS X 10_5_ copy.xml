@@ -86,6 +86,9 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
