@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="80" />
+  <GoCodeStyleSettings>
+    <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
+    <option name="GROUP_STDLIB_IMPORTS" value="true" />
+  </GoCodeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="SOFT_MARGINS" value="80" />
