@@ -5,6 +5,7 @@
       <mapping pattern="rh_lock_pdeathsig" type="PLAIN_TEXT" />
       <mapping pattern="date_utils.py" type="PLAIN_TEXT" />
       <mapping pattern="ReleaseJenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="clusterrolebinding" type="YAML" />
     </extensionMap>
   </component>
 </application>
