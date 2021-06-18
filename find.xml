@@ -19,5 +19,6 @@
     <mask>*.txt</mask>
     <mask>test*.py</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
