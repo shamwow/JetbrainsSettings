@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Go">
+        <added pattern="FUNCTION:github.com/robinhoodmarkets/main-street/frac_mainst/utils#CreateExecution(orderTimer,order,qty,refPrice,execID)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="go" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="LineJumperSettings">
+    <option name="jumps">
+      <set>
+        <option value="10" />
+      </set>
+    </option>
+  </component>
+</application>
