@@ -8,6 +8,7 @@
         <option value="file://$USER_HOME$/go/go1.16.4" />
         <option value="file:///usr/local/Cellar/go/1.14.2_1/libexec" />
         <option value="file:///usr/local/Cellar/go/1.14/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.16.6/libexec" />
         <option value="file:///usr/local/go" />
       </set>
     </sdk-url>
