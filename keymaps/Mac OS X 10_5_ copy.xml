@@ -3,7 +3,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
@@ -17,6 +16,12 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Documentation.Back">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="Documentation.Forward">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -49,11 +54,11 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindPrevious" />
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="IncrementWindowHeight" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="JumpDown10">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift alt up" />
