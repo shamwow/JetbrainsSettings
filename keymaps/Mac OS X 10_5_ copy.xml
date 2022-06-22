@@ -4,6 +4,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="CompareTwoFiles" />
@@ -16,9 +17,7 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="Documentation.Back">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-  </action>
+  <action id="Documentation.Back" />
   <action id="Documentation.Forward">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -55,6 +54,7 @@
   <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoSuperMethod" />
   <action id="IncrementWindowHeight" />
