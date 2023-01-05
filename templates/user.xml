@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="efold" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$DESCRIPTION$&quot;&gt;&#10;$SELECTION$$END$&#10;// &lt;/editor-fold&gt;" description="Editor Fold" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
