@@ -6,6 +6,13 @@
     <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
     <option name="GROUP_STDLIB_IMPORTS" value="true" />
   </GoCodeStyleSettings>
+  <codeStyleSettings language="Markdown">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="SOFT_MARGINS" value="120" />
