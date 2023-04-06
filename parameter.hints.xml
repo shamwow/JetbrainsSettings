@@ -5,6 +5,8 @@
         <added pattern="FUNCTION:github.com/robinhoodmarkets/main-street/frac_mainst/utils#CreateExecution(orderTimer,order,qty,refPrice,execID)" />
       </blacklist>
     </blacklists>
+    <option id="go.return.parameters" value="false" />
+    <option id="go.struct.unnamed.struct.fields" value="false" />
     <disabledLanguages>
       <language id="go" />
     </disabledLanguages>
