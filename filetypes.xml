@@ -3,9 +3,9 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="*Dockerfile" type="Dockerfile" />
-      <mapping pattern="rh_lock_pdeathsig" type="PLAIN_TEXT" />
       <mapping pattern="date_utils.py" type="PLAIN_TEXT" />
       <mapping pattern="ReleaseJenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="rh_lock_pdeathsig" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="clusterrolebinding" type="YAML" />
