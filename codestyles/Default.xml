@@ -1,4 +1,6 @@
 <code_scheme name="Default" version="173">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <option name="SOFT_MARGINS" value="120" />
   <GoCodeStyleSettings>
     <option name="REMOVE_REDUNDANT_IMPORT_ALIASES" value="true" />
