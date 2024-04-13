@@ -1,12 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <option name="SOFT_MARGINS" value="120" />
   <GoCodeStyleSettings>
     <option name="REMOVE_REDUNDANT_IMPORT_ALIASES" value="true" />
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
     <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
     <option name="GROUP_STDLIB_IMPORTS" value="true" />
+    <option name="LOCAL_PACKAGE_PREFIXES" />
   </GoCodeStyleSettings>
   <codeStyleSettings language="Markdown">
     <indentOptions>
