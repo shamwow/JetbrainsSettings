@@ -6,6 +6,7 @@
       <w>marketdata</w>
       <w>minimove</w>
       <w>pendle</w>
+      <w>querier</w>
       <w>testutils</w>
     </words>
   </component>
