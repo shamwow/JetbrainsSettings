@@ -9,6 +9,7 @@
       <w>offchain</w>
       <w>pendle</w>
       <w>querier</w>
+      <w>refetch</w>
       <w>testutils</w>
     </words>
   </component>
