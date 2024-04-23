@@ -8,6 +8,7 @@
       <mapping pattern="rh_lock_pdeathsig" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="bazel" type="PLAIN_TEXT" />
+      <mapping ext="mv" type="PLAIN_TEXT" />
       <mapping pattern="clusterrolebinding" type="YAML" />
     </extensionMap>
   </component>
