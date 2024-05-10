@@ -13,6 +13,7 @@
       <w>onchain</w>
       <w>pendle</w>
       <w>psuedo</w>
+      <w>pubkey</w>
       <w>querier</w>
       <w>refetch</w>
       <w>testutils</w>
