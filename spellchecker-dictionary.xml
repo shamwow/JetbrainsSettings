@@ -16,6 +16,7 @@
       <w>pubkey</w>
       <w>querier</w>
       <w>refetch</w>
+      <w>secp</w>
       <w>testutils</w>
       <w>unformatted</w>
     </words>
